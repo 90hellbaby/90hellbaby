@@ -3,13 +3,15 @@
 <body> 
 <br>
 
-####Acerca de mi:
--Conocimientos de Html
+### Acerca de mi:
+
+-Poseo conocimientos en💫: 
+-Conocimientos de Html 
 -Conocimientos de Css
--Conocimientos de python
+-Conocimientos de python 🐍
 -Conocimientos de Javascript (basico)
--Conocimientos de java tratare de mejorar en esta area ✧*。ヾ(｡>﹏<｡)ﾉﾞ✧*。
--Conocimientos de dibujo y arte(Tratare de mejorar lo maximo en 
+-Conocimientos de java ☕tratare de mejorar en esta area ✧*。ヾ(｡>﹏<｡)ﾉﾞ✧*。
+-Conocimientos de dibujo y arte📝📸🎬(Tratare de mejorar lo maximo en 
 cuanto a arte digital para combinar la programacion y el arte en el mismo lugar)
 -Soy una persona que desde pequeña le a gustado el arte y los videojuegos y mi meta es 
 conbinar mis dibujos junto con el desarollo de estos(Proximamente abrire un link a notion cuando tenga mas dibujos digitales)
