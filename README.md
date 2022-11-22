@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">🍥🍙 Hola , soy Thekawaiicokie <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">
+</h1> 
+<body> 
+<br>
 
-<!--
-**Thekawaiicokie/Thekawaiicokie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Informacion de contacto: 
+- Email: charlotterodriguez@inacapmail.cl 
+- Discord: thekawaiicokie#5676 
+<h1 align="center">
+<img src="https://i.pinimg.com/originals/16/18/a7/1618a7437a4c4b4d4e5ab197ebe80f2a.gif">
+</h1>
+#### Proyectos: 
+- Soy una colaboradora dentro de la aplicacion es la ultima aplicacion que realizamos https://github.com/Thekawaiicokie/notitas 
+- Regularmente realizo proyectos junto a mi compañero  [gabriel](https://github.com/pinguin-frosch) 
+- 🎮 El primer videojuego que creamos: https://github.com/Thekawaiicokie/Minijuego 
+#### Proyectos del año pasado: 
+- Estos proyectos tambien fueron creados  junto a mi compañero  [gabriel](https://github.com/pinguin-frosch) 
+- Sistema bibliotecario 📚 https://github.com/Thekawaiicokie/sistema_bibliotecario 
+- Sistema bibliotecario 📚  para terminal https://github.com/Thekawaiicokie/Biblioteca 
+#### Metas a final de este año: - Espero terminar un proyecto de apps moviles de un juego de cartas 🎴 
+#### Datos curiosos 🌟 
+- Me gusta escuchar musica para relajarme 
+- Antes tocaba bajo 
+- Me gusta dibujar
