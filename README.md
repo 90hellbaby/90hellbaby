@@ -40,5 +40,6 @@ conbinar mis dibujos junto con el desarollo de estos(Proximamente abrire un link
 - Antes tocaba bajo 
 - Me gusta dibujar pero tratare de mejorar en digital para poder hacer mis propios 
 scripts y assets ><
-
+- Me considero una persona un poco  multifacetica porque trato de conbinar todo lo que me gusta en cosas variadas 
+>< para aprovecharlo al maximo
 
