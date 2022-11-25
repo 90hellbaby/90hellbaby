@@ -20,7 +20,7 @@ conbinar mis dibujos junto con el desarollo de estos(Proximamente abrire un link
 - Email: charlotterodriguez@inacapmail.cl 
 - Discord: thekawaiicokie#5676 
 <h1 align="center">
-<img src="https://i.pinimg.com/originals/16/18/a7/1618a7437a4c4b4d4e5ab197ebe80f2a.gif">
+<img src="https://i.pinimg.com/564x/81/cd/27/81cd27eda26f6087bcc0e3ebe2044b55.jpg" width="200px" height="200px">
 </h1>
 
 #### Proyectos: 
