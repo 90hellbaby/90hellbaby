@@ -33,8 +33,6 @@ conbinar mis dibujos junto con el desarollo de estos(Proximamente abrire un link
 - Sistema bibliotecario 📚 https://github.com/Thekawaiicokie/sistema_bibliotecario 
 - Sistema bibliotecario 📚  para terminal https://github.com/Thekawaiicokie/Biblioteca 
 
-#### Metas a final de este año: - Espero terminar un proyecto de apps moviles de un juego de cartas 🎴 
-
 #### Datos curiosos 🌟 
 - Me gusta escuchar musica para relajarme 
 - Antes tocaba bajo 
