@@ -23,9 +23,8 @@ Además, trato de ser multifacética y combinar todas mis pasiones en diferentes
 
 ## Proyectos
 
--Soy colaboradora en la aplicación Notitas: https://github.com/Thekawaiicokie/notitas
+-Actualmente quiero mejorar en kotlin para que el proyecto tome mas forma rapidamente: https://github.com/StudyCombinaded/StudyCombinaded
 
--Regularmente trabajo en proyectos con mi compañero [Gabriel](https://github.com/pinguin-frosch).
 
 -🎮 El primer videojuego que creamos: https://github.com/Thekawaiicokie/Minijuego
 
