@@ -5,7 +5,7 @@
 
 ## Acerca de mí
 
-Soy una persona apasionada por el arte y los videojuegos, y mi objetivo es combinar mis habilidades artísticas con el desarrollo de software. Tengo conocimientos en:
+Soy una persona amante del arte , y mi objetivo es combinar mis habilidades artísticas con el desarrollo de software. Tengo conocimientos en:
 
 -Html
 
@@ -15,7 +15,7 @@ Soy una persona apasionada por el arte y los videojuegos, y mi objetivo es combi
 
 -Javascript (nivel básico)
 
--Java ☕ (estoy trabajando en mejorar en esta área)
+-Java ☕ (estoy trabajando para mejorar en esta área)
 
 -Dibujo y arte 📝📸🎬 (estoy trabajando en mejorar en arte digital para poder combinar programación y arte en un solo lugar)
 
