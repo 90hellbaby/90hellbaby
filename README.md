@@ -24,3 +24,11 @@ Soy una persona amante del arte , y mi objetivo es combinar mis habilidades art√
 -Me gusta dibujar, pero estoy trabajando en mejorar mis habilidades digitales para poder hacer mis propios scripts y assets en proyectos de software.
 
 -Siempre trato de aprovechar al m√°ximo mis habilidades y pasiones en todo lo que hago.
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=90hellbaby&show_icons=true&locale=en&layout=compact" alt="90hellbaby" /> </p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=90hellbaby&show_icons=true&locale=en" alt="90hellbaby" /> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=90hellbaby&" alt="90hellbaby" /></p>
+
